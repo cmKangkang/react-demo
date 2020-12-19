@@ -1,0 +1,44 @@
+const abbr=[
+  {
+    name:"负荷",
+    ab:"load",
+  },
+  {
+    name:"给水温度",
+    ab:"fwt",
+  },
+  {
+    name:'炉膛负压',
+    ab:"fp",
+  },
+  {
+    name:"主汽压力",
+    ab:"mgp",
+  },
+  {
+    name:'主汽温度',
+    ab:"mgt",
+  },
+  {
+    name:'主汽流量',
+    ab:"mgf",
+  },
+  {
+    name:'水煤比',
+    ab:'wc',
+  },
+  {
+    name:'过热度',
+    ab:'oh',
+  },
+  {
+    name:'高压缸第一压力',
+    ab:'fpr',
+  },
+  {
+    name:'总给煤量',
+    ab:'tc',
+  },
+];
+
+export default abbr;

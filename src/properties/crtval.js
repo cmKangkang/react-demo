@@ -1,0 +1,44 @@
+const crtval=[
+  {
+    ab:"load",
+    val:500,
+  },
+  {
+    ab:"fwt",
+    val:500,
+  },
+  {
+    ab:"fp",
+    val:500,
+  },
+  {
+    ab:"mgp",
+    val:500,
+  },
+  {
+    ab:"mgt",
+    val:500,
+  },
+  {
+    ab:"mgf",
+    val:500,
+  },
+  {
+    ab:'wc',
+    val:500,
+  },
+  {
+    ab:'oh',
+    val:500,
+  },
+  {
+    ab:'fpr',
+    val:500,
+  },
+  {
+    ab:'tc',
+    val:500,
+  },
+];
+
+export default crtval;
